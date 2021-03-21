@@ -1,0 +1,12 @@
+SELECT lower(t.name) FROM 
+tracks t  
+
+SELECT upper(t.name) FROM 
+tracks t
+
+SELECT t.name || '  ' || t.Composer FROM 
+tracks t
+
+
+
+

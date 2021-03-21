@@ -1,0 +1,5 @@
+// join m:na
+SELECT * FROM 
+playlist_track pt 
+JOIN tracks t ON t.name = 'Banho De Lua' AND pt.TrackId = t.TrackId
+JOIN playlists p ON pt.PlaylistId = p.PlaylistId
