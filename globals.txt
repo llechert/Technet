@@ -1,0 +1,27 @@
+Zagadnienia
+
+Str 174.
+
+.1 Opisuje modułową budowę komputera,
+.2 Stosuje podstawowe usługi systemu operacyjnego,
+.3 Stosuje zasady netykiety w komunikacji w sieci,
+.4 Wyjaśnia pojęcie algorytmu
+.5 Realizuje rozwiązanie na komputerze za pomocą oprogramowania aplikacyjnego lub języka programowania,
+.6 Testuje otrzymane rozwiązanie, ocenia jego własności, w tym efektywność działania oraz zgodność ze specyfikacją
+.7 Projektuje relacyjną bazę danych z zapewnieniem integralności danych;
+.8 Stosuje metody wyszukiwania i przetwarzania informacji w relacyjnej bazie danych (język SQL),
+.9 Tworzy aplikację bazodanową, w tym sieciową, wykorzystującą język zapytań, kwerendy, raporty; zapewnia integralność danych na poziomie pól, tabel, relacji;
+.10 opisuje mechanizmy związane z bezpieczeństwem danych: szyfrowanie, klucz, certyfikat, zapora ogniowa.
+.11 oceniawłasnościrozwiązaniaalgorytmicznego(komputerowego),np.zgodnośćzespecyfikacją, efektywność działania,
+.12 posługuje się metodą „dziel i zwyciężaj” w rozwiązywaniu problemów
+.13 Dobiera odpowiednie struktury danych do realizacji algorytmu, w tym struktury dynamiczne,
+.14 oblicza liczbę operacji wykonywanych przez algorytm;
+.15 itd ....
+
+Bloki
+.1 Sieci komputerowe,
+.2 Bezpieczeństwo,
+.3 Bazy danych,
+.4 Algorytmika,
+
+
