@@ -2,11 +2,19 @@
 .2 WA - źródła danych,
 .3 WA - liczby binarne i szesnastkowe,
 .4 WA - lista dwukierunkowa, cykliczna,
+   ZD - na kartce rozpisać czynności wstawiania i tworzenia listy jednokierunkowej cyklicznej,
 .5 WA - implementacja stosu i tablice w C++, 
 .6 WA - Sortowanie bąbelskowe i sortowanie przez wybieranie,
 .7 WA ZD - implementacja FIFO,
+
+Foreign key 
+https://www.w3schools.com/sql/sql_foreignkey.asp
 
 .8 DB - operacje na kolumnach tabeli,
 .9 DB - ERD modelowanie właściwości i relacji,
 .10 DB - JOINS M:N,
 .11 DB ZD - 2x joiny na chinkok
+
+SELECT * FROM 
+albums a 
+JOIN tracks t ON a.AlbumId = t.AlbumId
