@@ -1,0 +1,14 @@
+L005
+
+.1 Ciekawostka
+Elwro
+
+https://www.youtube.com/watch?v=HeuBvSn4vao
+
+.2 Funkcja main, typ void, przekazywanie wyników do systemu operacyjnego,
+.3 Typ danych rekord, krotka, stos tonący,
+.4 Relacja m:n
+.5 JOIN, LEFT I RIGHT,
+.6 Prezentacja silników baz danych Oracle postgresql
+otn.oracle.com
+
