@@ -9,15 +9,12 @@ Pierwszy komputer wyprodukowany w domu, do samodzielnego złozenia
 Cobra-1 https://pl.wikipedia.org/wiki/Cobra_1
 Czasopismo Audio Video
 
-Matura próbna 2021
-https://arkusze.pl/matura-probna-informatyka-2021-marzec-poziom-rozszerzony/
-
 .2 Sieci komputerowe.
 Sieci WAN, MAN, LAN
 
 .3 Bezpieczeństwo
 
-Socjotechnika (inzynieria społeczna), Erystyka i Persfazja
+Czynnik ludzki
 
 .4 WA
 
