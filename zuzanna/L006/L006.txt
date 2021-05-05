@@ -24,20 +24,25 @@ Czynnik ludzki
 http://wazniak.mimuw.edu.pl/index.php?title=Algorytmy_i_struktury_danych/Wyszukiwanie
 
 Zadanie 1.
-Zaimplementowac i uruchomic algorytm wyszukiwania liniowego w C++ (praca z Internetem)
+Na początek mały program pozwalający zapisywać liczby do tablicy.
+Zaimplementowac i uruchomic algorytm wyszukiwania liniowego w C++ na tablicach (praca z Internetem).
+Przygotować się do omówienia algorytmu. 
 
 .5 DB 
 
 + omówienie bazy chinkok,
-+ pierwsza postać nornalna 1NF,
++ pierwsza postać normalna 1NF,
 + druga postać normalna 2NF,
+(większe wyjaśnienie 1NF i 2NF na mejla).
+
 + przykłady JOIN, LEFT JOIN, RIGHT JOIN.
 
 Zadanie 2.
 + wybrać dowolne tabele i zaimplementować po 1 zapytaniu dla JOIN, LEFT i RIGHT JOIN. Przygotować się 
 omówienia wybranych i zaimplementowanych przykładów (praca samodzielna bez Internetu z bazą chinkok).
 
-
+Do zrobienia na JONie
++ pokaz nazwy tracków/przebojów z listy 15 (playlist_track)
 
 
 
