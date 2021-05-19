@@ -1,0 +1,46 @@
+L007
+
+.1 Ciekawostka
+
+Pierwsza strona Internetowa - CERN.
+http://info.cern.ch/hypertext/WWW/TheProject.html 
+
+Problem
+Cyfry są zapisane w pliku. Cyfry nalezy posortować, a posortowany ciag cyfr (wynik) musi zostac zapisany do pliku.
+(Regula dziel i rządź).
+
+.2 Sieci komputerowe.
+Topologie sieci. Adres IP v4,
+
+.3 Bezpieczeństwo
+
+SSH, Transmisja szyfrowana,
+
+.4 WA
+
++ dodawanie liczb binarnych,
++ logika i zadanie z próbnej matury, 
++ rekordy i struktury, przykład,
++ wyszukiwanie binarne,
+
+Zadanie 1.
+ + Napisać program, który odczytuje liczby zapamiętane w pliku i prezentuje odczytane liczby na konsoli (ekranie),
+ + Napisać program, który zapamietuje w pliku dowolna ilosc cyfr wprowadzonych z klawiatury,
+ + Napisać program, który wyszukuje wprowadzona z klawiatury cyfre sposrod cyfr tez wprowadzony z klawiatury - 
+   uzyc algorytmu wyszukiwania binarnego,
+ (Praca z Internetem).
+ 
+.5 DB 
+
++ pierwsza postać normalna 1NF,
++ druga postać normalna 2NF,
++ trzecia postać normalna 3NF,
+
++ przykłady JOIN, LEFT JOIN, RIGHT JOIN.
+
+Zadanie 2.
++ wybrać dowolne tabele i zaimplementować po 1 zapytaniu dla JOIN, LEFT i RIGHT JOIN. Przygotować się 
+omówienia wybranych i zaimplementowanych przykładów (praca samodzielna bez Internetu z bazą chinkok).
+
+
+
