@@ -6,13 +6,12 @@ using namespace std;
 float temp[ILOSC] = {120,20};
 float suma = 0.0;
 
-
 int main()
 {
-  cout << "Program wylicza srednią z temperatur z " << ILOSC << " dni\n";
+  cout << "Program liczy srednią z temperatur z " << ILOSC << " dni\n";
   for(int i = 0; i < ILOSC; i++)
   {  
-	  cout<<"Podaj temperature z " << i + 1 << " dnia:" << endl;
+	  cout<<"Podaj temperature z " << i + 1 << " dla dnia:" << endl;
       //cin >> temp[i];
       suma += temp[i];
   }
