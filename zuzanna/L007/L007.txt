@@ -9,18 +9,14 @@ Problem
 Cyfry są zapisane w pliku. Cyfry nalezy posortować, a posortowany ciag cyfr (wynik) musi zostac zapisany do pliku.
 (Regula dziel i rządź).
 
-.2 Sieci komputerowe.
-Topologie sieci. Adres IP v4,
+.2 Bezpieczeństwo
 
-.3 Bezpieczeństwo
+Transmisja szyfrowana,
 
-SSH, Transmisja szyfrowana,
+.3 WA
 
-.4 WA
-
-+ dodawanie liczb binarnych,
 + logika i zadanie z próbnej matury, 
-+ rekordy i struktury, przykład,
++ referencje, wskaźniki, rekurencja,
 + wyszukiwanie binarne,
 
 Zadanie 1.
@@ -30,12 +26,10 @@ Zadanie 1.
    uzyc algorytmu wyszukiwania binarnego,
  (Praca z Internetem).
  
-.5 DB 
+.4 DB 
 
-+ pierwsza postać normalna 1NF,
-+ druga postać normalna 2NF,
-+ trzecia postać normalna 3NF,
-
++ postacie normalne 1NF, 2NF, 3NF,
++ zadania z matury 2021 (SELECTs)
 + przykłady JOIN, LEFT JOIN, RIGHT JOIN.
 
 Zadanie 2.
