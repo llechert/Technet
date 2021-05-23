@@ -15,14 +15,16 @@ Transmisja szyfrowana,
 
 .3 WA
 
-+ logika i zadanie z próbnej matury, 
++ logika i zadanie z próbnej matury,
 + referencje, wskaźniki, rekurencja,
+https://cpp0x.pl/kursy/Kurs-C++/Poziom-3/Przekazywanie-argumentow-funkcji-przez-referencje/356
 + wyszukiwanie binarne,
+http://www.algorytm.edu.pl/algorytmy-maturalne/wyszukiwanie-binarne.html
 
 Zadanie 1.
  + Napisać program, który odczytuje liczby zapamiętane w pliku i prezentuje odczytane liczby na konsoli (ekranie),
  + Napisać program, który zapamietuje w pliku dowolna ilosc cyfr wprowadzonych z klawiatury,
- + Napisać program, który wyszukuje wprowadzona z klawiatury cyfre sposrod cyfr tez wprowadzony z klawiatury - 
+ + Napisać program, który wyszukuje wprowadzona z klawiatury cyfre sposrod cyfr tez wprowadzonych z klawiatury - 
    uzyc algorytmu wyszukiwania binarnego,
  (Praca z Internetem).
  
